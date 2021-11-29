@@ -1,0 +1,263 @@
+Employbl Company ID,Company Name,Website,Address 1,City,State,Zip,Latitude,Longitude
+6,23andMe,23andme.com,899 W Evelyn Ave,Mountain View,CA,94041,37.395208,-122.079159
+1075,280 Group,280group.com,142B S Santa Cruz Ave,Los Gatos,CA,95030,37.220624,-121.985589
+984,5AM Ventures,5amventures.com,2200 Sand Hill Road,Menlo Park,CA,94025,37.422774,-122.199215
+1088,Accel,www.accel.com,2500 Sand Hill Road,Menlo Park,CA,94025,37.421750,-122.204843
+15,Addepar,addepar.com,303 Bryant St,Mountain View,CA,94041,37.392670,-122.080849
+16,Adecco Group,www.adeccogroup.com,903 Sneath Ln Ste 123,San Bruno,CA,94066,37.635000,-122.424555
+18,Adobe,www.adobe.com,601 Townsend St,San Francisco,CA,94103,37.771206,-122.401662
+1081,AgilOne,acquia.com,771 Vaqueros Ave,Sunnyvale,CA,94085,37.395589,-122.031758
+33,Alation,alation.com,805 Veterans Blvd #307,Redwood City,CA,94063,37.491223,-122.228606
+35,AlienVault,www.alienvault.com,1100 Park Pl #300,San Mateo,CA,94403,37.545105,-122.290819
+986,Altimeter Capital,,2420 Sand Hill Road,Menlo Park,CA,94025,37.422643,-122.203958
+987,Altos Ventures,,2882 Sand Hill Road,Menlo Park,CA,94025,37.421968,-122.214066
+41,Amazon,amazon.com,1900 University Ave,East Palo Alto,CA,94303,37.459056,-122.142821
+43,Ambient.ai,ambient.ai,459 Hamilton Ave,Palo Alto,CA,94301,37.447222,-122.158617
+44,AMD,www.amd.com,2485 Augustine Dr,Santa Clara,CA,95054,37.382925,-121.970384
+1097,Amply Power,www.amplypower.com,335 E Middlefield Rd,Mountain View,CA,94043,37.396461,-122.058804
+988,Andreessen Horowitz,a16z.com,2865 Sand Hill Road,Menlo Park,CA,94025,37.419730,-122.214244
+49,Anomali,anomali.com,808 Winslow St,Redwood City,CA,94063,37.486075,-122.231216
+55,Apple,www.apple.com,Apple Campus,Cupertino,CA,95014,37.331820,-122.031180
+61,Apttus,apttus.com,1400 Fashion Island Blvd #100,San Mateo,CA,94404,37.556081,-122.288161
+919,Arista,arista.com,5453 Great America Pkwy,Santa Clara,CA,95054,37.412161,-121.976030
+62,Armory,www.armory.io,28 E 3rd Ave #200,San Mateo,CA,94401,37.563250,-122.325167
+902,Ascend,tryascend.com,,San Jose,CA,,37.338208,-121.886329
+66,ASUS,www.asus.com,48720 Kato Rd,Fremont,CA,94538,37.461544,-121.923311
+70,Avast,avast.com,2625 Broadway,Redwood City,CA,94063,37.485898,-122.233689
+1100,Baidu USA,usa.baidu.com,1195 Bordeaux Dr,Sunnyvale,CA,94089,37.409228,-122.023987
+76,Barracuda,www.barracuda.com,3175 S Winchester Blvd,Campbell,CA,95008,37.267651,-121.957931
+989,Battery Ventures,,2884 Sand Hill Road,Menlo Park,CA,94025,37.421944,-122.215130
+81,Benevity,benevity.com,32 W 25th Ave #203,San Mateo,CA,94403,37.544091,-122.306726
+84,Betterworks,betterworks.com,999 Main St,Redwood City,CA,94063,37.484282,-122.225865
+98,Blue River Technology,www.bluerivertechnology.com,575 N Pastoria Ave,Sunnyvale,CA,94085,37.391861,-122.034289
+100,BlueJeans,www.bluejeans.com,516 Clyde Ave,Mountain View,CA,94043,37.398873,-122.047364
+101,BlueVine,bluevine.com,401 Warren St #300,Redwood City,CA,94063,37.487126,-122.232107
+104,Box,box.com,900 Jefferson Ave,Redwood City,CA,94063,37.484870,-122.229315
+108,Branch,branch.io,1400 Seaport Blvd,Redwood City,CA,94063,37.513650,-122.199525
+990,Bright Capital,,3000 Sand Hill Road Building 2,Menlo Park,CA,94025,37.423590,-122.221003
+843,Brillio,www.brillio.com,5201 Great America Pkwy,Santa Clara,CA,95054,37.406306,-121.976493
+116,Broadcom,www.broadcom.com,1320 Ridder Park Dr,San Jose,CA,95131,37.386135,-121.900328
+123,C3,c3.ai,1300 Seaport Blvd #500,Redwood City,CA,94063,37.513716,-122.201786
+124,Cadence Design Systems,www.cadence.com,2655 Seely Ave,San Jose,CA,95134,37.396063,-121.919533
+992,Canaan Partners,,2765 Sand Hill Road,Menlo Park,CA,94025,37.419687,-122.209616
+132,Carbon,carbon3d.com,1089 Mills Way,Redwood City,CA,94063,37.487369,-122.209545
+135,Carta,carta.com,195 Page Mill Rd Suite 101,Palo Alto,CA,94306,37.426587,-122.138655
+993,Charles River Ventures,,2882 Sand Hill Road,Menlo Park,CA,94025,37.421968,-122.214066
+144,Chegg,www.chegg.com,3990 Freedom Cir,Santa Clara,CA,95054,37.388454,-121.972382
+921,CipherCloud,ciphercloud.com,333 W San Carlos St,San Jose,CA,95110,37.328862,-121.893598
+922,Cisco,cisco.com,3605 Cisco Way,San Jose,CA,95134,37.408175,-121.928128
+150,Clara Analytics,www.claraanalytics.com,451 El Camino Real #201,Santa Clara,CA,95050,37.350870,-121.932689
+159,Cloudbees,www.cloudbees.com,2001 Gateway Pl #670W,San Jose,CA,95110,37.369715,-121.922733
+163,Clover Network,clover.com,415 N Mathilda Ave,Sunnyvale,CA,94085,37.386705,-122.031980
+168,Codexis,codexis.com,400 Penobscot Dr,Redwood City,CA,94063,37.500281,-122.216549
+871,ColorTokens,colortokens.com,2101 Tasman Dr Suite 201,Santa Clara,CA,95054,37.409514,-121.961797
+997,Columbus Nova,,3000 Sand Hill Road Building 3 Suite 190,Menlo Park,CA,94025,37.423590,-122.221003
+821,CommonGenius,commongenius.com,75 E Santa Clara St,San Jose,CA,95113,37.337119,-121.889391
+1116,Confident Cannabis,confidentcannabis.com,,,,,0.000000,0.000000
+1117,Course Hero,www.coursehero.com,2000 Seaport Blvd,Redwood City,CA,94063,37.510734,-122.203471
+179,Coursera,www.coursera.org,381 E Evelyn Ave,Mountain View,CA,94041,37.386873,-122.060787
+180,Cradlepoint,cradlepoint.com,718 University Ave Suite 200,Los Gatos,CA,95032,37.236957,-121.975021
+873,Crossover Hub,crossoverhub.com,42514 Albrae St,Fremont,CA,94538,37.508858,-121.970526
+925,DataStax,datastax.com,3975 Freedom Cir,Santa Clara,CA,95054,37.387153,-121.973883
+196,Datavisor,datavisor.com,967 N Shoreline Blvd,Mountain View,CA,94043,37.407728,-122.077488
+874,Datrium,datrium.com,385 Moffett Park Dr #205,Sunnyvale,CA,94089,37.406390,-122.016012
+999,DCM Ventures,,2420 Sand Hill Road,Menlo Park,CA,94025,37.422643,-122.203958
+927,Delphix,delphix.com,1400 Seaport Blvd,Redwood City,CA,94063,37.513745,-122.199786
+825,DiDi Labs,didi-labs.com,450 National Ave,Mountain View,CA,94043,37.401840,-122.052942
+844,Diffbot,www.diffbot.com,333 Ravenswood Ave,Menlo Park,CA,94025,37.457562,-122.176536
+208,DNAnexus,dnanexusconnect.com,1975 W El Camino Real #204,Mountain View,CA,94040,37.393674,-122.099278
+1058,Dokkio,dokkio.com,1 Waters Park Dr #103,San Mateo,CA,94403,37.551425,-122.291173
+1001,Draper Fisher Jurvetson,,2882 Sand Hill Road,Menlo Park,CA,94025,37.421968,-122.214066
+221,eBay,www.ebay.com,2025 Hamilton Ave,San Jose,CA,95125,37.295145,-121.926111
+930,Egnyte,egnyte.com,1350 W Middlefield Rd,Mountain View,CA,94043,37.409204,-122.083073
+931,Elastic,elastic.co,800 W El Camino Real,Mountain View,CA,94040,37.386495,-122.084129
+225,Electronic Arts,ea.com,209 Redwood Shores Pkwy,Redwood City,CA,94065,37.523280,-122.254142
+932,EMC Data Domain,emc.com,2421 Mission College Blvd,Santa Clara,CA,95054,37.390350,-121.970629
+234,Equinix,equinix.com,1 Lagoon Dr,Redwood City,CA,94065,37.527344,-122.261179
+238,Evernote,evernote.com,305 Walnut St,Redwood City,CA,94063,37.492090,-122.222378
+243,Facebook,www.facebook.com,1 Hacker Way,Menlo Park,CA,94025,37.484377,-122.148304
+245,Fanatics,fanatics.com,1 Franklin Pkwy,San Mateo,CA,94403,37.542249,-122.293545
+845,FileMaker,www.filemaker.com,5201 Patrick Henry Dr,Santa Clara,CA,95054,37.406436,-121.983479
+933,Flipboard,about.flipboard.com,735 Emerson St,Palo Alto,CA,94301,37.442773,-122.159474
+1079,Forcepoint,forcepoint.com,983 University Ave # A,Los Gatos,CA,95032,37.249966,-121.967384
+266,Gainsight,gainsight.com,1400 Bridge Pkwy #101,Redwood City,CA,94065,37.535116,-122.258255
+268,GarageScript,garagescript.org,490 W San Carlos St,San Jose,CA,95110,37.325786,-121.898008
+271,GenapSys,genapsys.com,200 Cardinal Way,Redwood City,CA,94063,37.504460,-122.219206
+273,Genomic Health,genomichealth.com,301 Penobscot Dr,Redwood City,CA,94063,37.498897,-122.218145
+1004,GGV Capital,,2494 Sand Hill Road,Menlo Park,CA,94025,37.422068,-122.203026
+1005,GI Partners,,2180 Sand Hill Road,Menlo Park,CA,94025,37.423064,-122.198505
+935,Gigya,gigya.com,2513 E Charleston Rd,Palo Alto,CA,94303,37.421046,-122.098583
+936,Globalfoundries,globalfoundries.com,2600 Great America Way,Santa Clara,CA,95054,37.415293,-121.974448
+1128,GoFundMe,www.gofundme.com,855 Jefferson Ave,Redwood City,CA,94063,37.485529,-122.227764
+284,Gong.io,www.gong.io,1200 Park Place Suite 100,San Mateo,CA,94403,37.546157,-122.290233
+913,GoodRx,goodrx.com,577 2nd St Suite 103,San Francisco,CA,94107,37.782257,-122.392295
+288,Google,google.com,,Mountain View,CA,,37.386052,-122.083851
+1130,Green Bits,www.greenbits.com,75 E Santa Clara St,San Jose,CA,95113,37.337119,-121.889391
+292,Greenfield Labs,greenfieldlabs.com,3251 Hillview Ave,Palo Alto,CA,94304,37.408727,-122.145850
+1007,Greylock Partners,greylock.com,2250 Sand Hill Road,Menlo Park,CA,94025,37.424218,-122.194856
+296,Groupon,groupon.com,2445 Augustine Dr,Santa Clara,CA,95054,37.382589,-121.969440
+1096,GSR Ventures,www.gsrventures.com,245 Lytton Ave #350,Palo Alto,CA,94301,37.445980,-122.164006
+1094,GV,www.gv.com,,Mountain View,CA,,37.386052,-122.083851
+1060,HackerRank,hackerrank.com,700 E El Camino Real #300,Mountain View,CA,94041,37.377584,-122.064086
+877,Harmonic,harmonicinc.com,4300 N 1st St,San Jose,CA,95134,37.421136,-121.961086
+829,Health Gorilla,healthgorilla.com,185 N Wolfe Rd,Sunnyvale,CA,94086,37.377107,-122.014039
+310,HeartFlow,heartflow.com,1400 Seaport Blvd,Redwood City,CA,94063,37.513650,-122.199525
+939,Hewlett Packard,hp.com,3000 Hanover St,Palo Alto,CA,94304,37.414562,-122.146289
+878,Hewlett-Packard Enterprise,hpe.com,6280 America Center Dr,San Jose,CA,95002,37.419235,-121.978859
+1009,Highland Capital Partners,,2420 Sand Hill Road Suite 300,Menlo Park,CA,94025,37.422643,-122.203958
+318,Hiretual,www.hiretual.com,2525 E Charleston Rd #104,Mountain View,CA,94043,37.421186,-122.098438
+1061,Hivemapper,hivemapper.com,1801 Murchison Dr UNIT 128,Burlingame,CA,94010,37.593663,-122.388098
+940,Houzz,houzz.com,285 Hamilton Ave,Palo Alto,CA,94301,37.445099,-122.160735
+1087,IBM,ibm.com,555 Bailey Ave,San Jose,CA,95141,37.195907,-121.748586
+336,Imperva,imperva.com,3400 Bridge Pkwy,Redwood City,CA,94065,37.537772,-122.255180
+868,Incorta,incorta.com,2755 Campus Dr #350,San Mateo,CA,94403,37.536903,-122.324879
+941,Inflection.com,inflection.com,555 Twin Dolphin Dr,Redwood City,CA,94065,37.521019,-122.256482
+1074,Infogain,infogain.com,485 Alberto Way #100,Los Gatos,CA,95032,37.229674,-121.971945
+342,Informatica,informatica.com,2100 Seaport Blvd,Redwood City,CA,94063,37.511302,-122.204801
+1010,Institutional Venture Partners,,3000 Sand Hill Road,Menlo Park,CA,94025,37.423590,-122.221003
+942,Intel,intel.com,2200 Mission College Blvd,Santa Clara,CA,95054,37.387524,-121.963660
+348,Intelliswift,intelliswift.com,39600 Balentine Dr #200,Newark,CA,94560,37.523880,-121.996495
+1011,InterWest Partners,,2710 Sand Hill Road,Menlo Park,CA,94025,37.421583,-122.208924
+351,Intuit,www.intuit.com,2675 Coast Ave,Mountain View,CA,94043,37.431219,-122.097991
+353,Invoice2go,2go.com,2317 Broadway,Redwood City,CA,94063,37.486067,-122.230423
+943,Jasper Wireless,jasper.com,189 S Bernardo Ave,Mountain View,CA,94043,37.386280,-122.051355
+359,Jobvite,jobvite.com,1300 S El Camino Real,San Mateo,CA,94402,37.554714,-122.317245
+945,Juniper Networks,juniper.net,1133 Innovation Way,Sunnyvale,CA,94089,37.407504,-122.029189
+846,Katerra,www.katerra.com,2494 Sand Hill Rd #100,Menlo Park,CA,94025,37.422068,-122.203026
+374,Khan Academy,www.khanacademy.org,1937 Landings Drive,Mountain View,CA,94043,37.421321,-122.088694
+1013,Khosla Ventures,khoslaventures.com,2128 Sand Hill Road,Menlo Park,CA,94025,37.425613,-122.193384
+1015,Kleiner Perkins,,2750 Sand Hill Road,Menlo Park,CA,94025,37.421271,-122.211292
+1016,Kohlberg Kravis Roberts,kkr.com,2800 Sand Hill Road,Menlo Park,CA,94025,37.421086,-122.212160
+947,Lab126,lab126.com,20450 Stevens Creek Blvd,Cupertino,CA,95014,37.321379,-122.030751
+861,Leetcode,leetcode.com,953 Industrial Ave,Palo Alto,CA,94303,37.424205,-122.098878
+1018,Lightspeed Venture Partners,lsvp.com,2200 Sand Hill Road,Menlo Park,CA,94025,37.422774,-122.199215
+405,Livongo,livongo.com,150 W Evelyn Ave #150,Mountain View,CA,94041,37.392420,-122.071804
+948,Logitech,logitech.com,7700 Gateway Blvd,Newark,CA,94560,37.539124,-122.061780
+1064,Lohika,lohika.com,1825 S Grant St #400,San Mateo,CA,94402,37.553927,-122.299989
+412,Machine Zone,www.mz.com,2225 E Bayshore Rd #200,Palo Alto,CA,94303,37.449965,-122.120976
+1020,Makena Capital Management,,2755 Sand Hill Road,Menlo Park,CA,94025,37.419515,-122.209543
+951,MapR Technologies,mapr.com,350 Holger Way,San Jose,CA,95134,37.418436,-121.944978
+419,Marketo,marketo.com,901 Mariners Island Blvd,San Mateo,CA,94404,37.559895,-122.287037
+952,MarkLogic,marklogic.com,999 Skyway Rd,San Carlos,CA,94070,37.507340,-122.246944
+953,Marvell,marvell.com,5488 Marvell Ln,Santa Clara,CA,95054,37.411865,-121.982146
+426,Mattermost,mattermost.com,530 Lytton Ave Suite 201,Palo Alto,CA,94301,37.449340,-122.159970
+1022,Mayfield Fund,,2484 Sand Hill Road,Menlo Park,CA,94025,37.423162,-122.205333
+955,McAfee,mcafee.com,2821 Mission College Blvd,Santa Clara,CA,95054,37.389291,-121.979214
+1023,Menlo Ventures,www.menlovc.com,2884 Sand Hill Road,Menlo Park,CA,94025,37.421944,-122.215130
+1024,Mentor Graphics,mentor.com,46871 Bayside Pkwy,Fremont,CA,94538,37.479393,-121.942169
+438,MetaVision,www.metavision.com,2855 Campus Drive,San Mateo,CA,94403,37.536121,-122.325787
+1082,MetricStream,metricstream.com,2479 E Bayshore Rd #260,Palo Alto,CA,94303,37.448524,-122.118314
+831,Miles,getmiles.com,75 E Santa Clara St Suite 05-137,San Jose,CA,95113,37.337119,-121.889391
+443,Mindsource,mindsource.com,555 Clyde Ave # 100,Mountain View,CA,94043,37.399445,-122.046322
+451,Model N,modeln.com,777 Mariners Island Blvd #300,San Mateo,CA,94404,37.559179,-122.286982
+1025,Mohr Davidow Ventures,,3000 Sand Hill Road,Menlo Park,CA,94025,37.423590,-122.221003
+959,MongoDB,mongodb.com,100 Forest Ave,Palo Alto,CA,94301,37.442041,-122.161195
+1026,Morgenthaler,,2710 Sand Hill Road,Menlo Park,CA,94025,37.421583,-122.208924
+457,Mountain View Staffing,www.mountainviewstaffing.com,824 San Antonio Rd,Palo Alto,CA,94303,37.421099,-122.101449
+960,NetApp,netapp.com,475 E Java Dr,Sunnyvale,CA,94089,37.411384,-122.012540
+470,Netflix,netflix.com,100 Winchester Cir,Los Gatos,CA,95032,37.259575,-121.962753
+916,NetSpring,netspring.io,800 W El Camino Real #180,Mountain View,CA,94040,37.386564,-122.084176
+1027,New Enterprise Associates,,2855 Sand Hill Road,Menlo Park,CA,94025,37.419767,-122.213590
+833,NexGenT,nexgent.com,2033 Gateway Pl #460,San Jose,CA,95110,37.371113,-121.925578
+849,Nextgen Technologies,www.nextgentechinc.com,1735 N 1st St Suite 308,San Jose,CA,95112,37.368505,-121.915417
+1028,Nexus Venture Partners,,2200 Sand Hill Road,Menlo Park,CA,94025,37.422774,-122.199215
+850,Nuance Communications,www.nuance.com,1198 E Arques Ave,Sunnyvale,CA,94085,37.379440,-121.997339
+485,Nuro,nuro.ai,1300 Terra Bella Ave #100,Mountain View,CA,94043,37.410376,-122.081143
+961,Nutanix,nutanix.com,1740 Technology Dr,San Jose,CA,95112,37.367681,-121.918126
+962,NVIDIA,nvidia.com,2741 County Hwy G4,Santa Clara,CA,95050,37.370837,-121.964022
+492,Onesignal,onesignal.com,411 Borel Ave #512,San Mateo,CA,94402,37.548326,-122.320274
+1030,Onset Ventures,,2400 Sand Hill Road,Menlo Park,CA,94025,37.423485,-122.203901
+498,Oracle,www.oracle.com,100 Oracle Pkwy,Redwood City,CA,94065,37.530705,-122.262420
+1067,OutreachCircle,outreachcircle.com,174 Pepper Dr,Los Altos,CA,94022,37.377091,-122.110261
+964,Palantir,palantir.com,540 Emerson St,Palo Alto,CA,94301,37.443844,-122.162189
+505,Palo Alto Staffing,www.paloaltostaffing.com,2479 E Bayshore Rd #165,Palo Alto,CA,94303,37.448524,-122.118314
+512,PayPal,www.paypal.com,2211 N 1st St,San Jose,CA,95131,37.376851,-121.922733
+1069,Planful,planful.com,555 Twin Dolphin Dr #400,Redwood City,CA,94065,37.520957,-122.256128
+530,Poshmark,poshmark.com,203 Redwood Shores Pkwy Floor 8,Redwood City,CA,94065,37.521035,-122.253951
+539,Proofpoint,proofpoint.com,892 Ross Dr,Sunnyvale,CA,94089,37.400617,-122.032115
+540,Proteus Digital Health,www.proteus.com,2600 Bridge Pkwy,Redwood City,CA,94065,37.539077,-122.257280
+545,Qualys,qualys.com,919 E Hillsdale Blvd 4th Floor,Foster City,CA,94404,37.555726,-122.276719
+549,Quora,quora.com,650 Castro St #450,Mountain View,CA,94041,37.387912,-122.083125
+550,Qwilt,qwilt.com,275 Shoreline Dr # 510,Redwood City,CA,94065,37.524955,-122.257862
+563,Red Oak Technologies,www.redoaktech.com,2001 Gateway Pl Suite 150w,San Jose,CA,95110,37.369715,-121.922733
+567,Redpoint Ventures,www.redpoint.com,21 S Park St suite 100,San Francisco,CA,94107,37.781917,-122.393022
+1033,Relay Ventures,,3000 Sand Hill Road,Menlo Park,CA,94025,37.423590,-122.221003
+967,reputation.com,reputation.com,1001 Marshall St,Redwood City,CA,94063,37.487976,-122.224383
+581,RingCentral,www.ringcentral.com,20 Davis Dr,Belmont,CA,94002,37.510900,-122.306596
+968,Robinhood,robinhood.com,3200 Ash St,Palo Alto,CA,94306,37.422211,-122.137080
+835,Roblox,roblox.com,970 Park Pl,San Mateo,CA,94403,37.544412,-122.293699
+1073,Roku,roku.com,170 Knowles Dr,Los Gatos,CA,95032,37.261103,-121.961486
+969,Sandisk,sandisk.com,1001 Sandisk Dr,Milpitas,CA,95035,37.417533,-121.922480
+598,SAP,sap.com,3410 Hillview Ave,Palo Alto,CA,94304,37.398759,-122.146484
+605,Scalyr,scalyr.com,101 S San Mateo Dr 4th Floor,San Mateo,CA,94401,37.566047,-122.325402
+1034,Seagate,seagate.com,10200 S De Anza Blvd,Cupertino,CA,95014,37.320788,-122.031617
+608,Securly,securly.com,111 N Market St 4th floor,San Jose,CA,95113,37.337659,-121.894104
+1158,Sendbird,sendbird.com,400 1st Ave,San Mateo,CA,94401,37.567650,-122.322993
+610,Sendgrid,sendgrid.com,889 Winslow St,Redwood City,CA,94063,37.485417,-122.229213
+886,SentinelOne,sentinelone.com,605 Fairchild Dr #2234,Mountain View,CA,94043,37.402611,-122.049253
+1035,Sequoia Capital,sequoiacap.com,3000 Sand Hill Road,Menlo Park,CA,94025,37.423590,-122.221003
+1037,Shasta Ventures,shastaventures.com,2440 Sand Hill Road,Menlo Park,CA,94025,37.422654,-122.203971
+614,Shazam,shazam.com,2114 Broadway,Redwood City,CA,94063,37.486830,-122.228591
+620,Shutterfly,shutterfly.com,2800 Bridge Pkwy,Redwood City,CA,94065,37.539416,-122.256659
+621,Sibly,sibly.co,2395 Broadway,Redwood City,CA,94063,37.486231,-122.230866
+1038,Sierra Ventures,,2884 Sand Hill Road,Menlo Park,CA,94025,37.421944,-122.215130
+624,SignalFx,signalfx.com,60 E 3rd Ave Suite 225,San Mateo,CA,94401,37.563562,-122.324503
+1039,Silver Lake Partners,,2775 Sand Hill Road,Menlo Park,CA,94025,37.417814,-122.210348
+627,Sizmek,sizmek.com,2000 Seaport Blvd,Redwood City,CA,94063,37.510734,-122.203471
+637,SmugMug,smugmug.com,67 E Evelyn Ave,Mountain View,CA,94041,37.389879,-122.067676
+639,SnapLogic,snaplogic.com,1825 S Grant St,San Mateo,CA,94402,37.553927,-122.299989
+641,Snowflake Computing,snowflake.com,100 S Ellsworth Ave,San Mateo,CA,94401,37.566551,-122.325004
+1092,Social Capital,www.socialcapital.com,120 Hawthorne Ave,Palo Alto,CA,94301,37.446086,-122.167110
+1041,Sofinnova Ventures,,3000 Sand Hill Road,Menlo Park,CA,94025,37.423590,-122.221003
+972,Space Systems Loral,sslmda.com,1076 E Meadow Cir,Palo Alto,CA,94303,37.429347,-122.108860
+1093,Spark Capital,www.sparkcapital.com,332 Pine St,San Francisco,CA,94104,37.792209,-122.401552
+1078,Sterling Communications,sterlingpr.com,750 University Ave,Los Gatos,CA,95032,37.238909,-121.973883
+1042,Storm Ventures,stormventures.com,3000 Sand Hill Road Building 4 Suite 210,Menlo Park,CA,94025,37.423590,-122.221003
+672,Sumo Logic,sumologic.com,305 Main St,Redwood City,CA,94063,37.492762,-122.227852
+973,SurveyMonkey,surveymonkey.com,101 Lytton Ave,Palo Alto,CA,94301,37.444478,-122.165316
+1076,SVG Ventures,svgventures.com,750 University Ave #260,Los Gatos,CA,95032,37.238909,-121.973883
+680,Syllable.ai,syllable.ai,333 W El Camino Real,Sunnyvale,CA,94087,37.369399,-122.035872
+681,Symantec,symantec.com,350 Ellis Street,Mountain View,CA,94043,37.397614,-122.053924
+974,Synopsys,synopsys.com,690 E Middlefield Rd,Mountain View,CA,94043,37.394497,-122.050391
+862,TalentSeer,talentseer.com,530 Lakeside Dr,Sunnyvale,Ca,94085,37.384261,-121.992675
+689,Taos,taos.com,121 Daggett Dr,San Jose,CA,95134,37.395928,-121.931578
+1077,Tascent,tascent.com,475 Alberto Way,Los Gatos,CA,95032,37.229431,-121.971254
+1084,Tata Consultancy Services,tcs.com,5201 Great America Pkwy #522,Santa Clara,CA,95054,37.406306,-121.976493
+699,Tenable,www.tenable.com,75 E Santa Clara St,San Jose,CA,95113,37.337119,-121.889391
+701,Tesla,www.tesla.com,3500 Deer Creek Rd,Palo Alto,CA,94304,37.394838,-122.150389
+1044,The Blackstone Group,,2494 Sand Hill Road,Menlo Park,CA,94025,37.422068,-122.203026
+1045,The Westly Group,,2200 Sand Hill Road,Menlo Park,CA,94025,37.422774,-122.199215
+716,TIBCO Software,tibco.com,3307 Hillview Ave,Palo Alto,CA,94304,37.407268,-122.145009
+1047,Trinity Ventures,,3000 Sand Hill Road Building 4 Suite 160,Menlo Park,CA,94025,37.423590,-122.221003
+1048,TriplePoint Capital,triplepointcapital.com,2755 Sand Hill Road,Menlo Park,CA,94025,37.419515,-122.209543
+976,TuneIn,tunein.com,210 King St,San Francisco,CA,94107,37.778010,-122.392530
+857,Tynker,www.tynker.com,480 San Antonio Rd #100,Mountain View,CA,94040,37.404447,-122.112369
+1049,U.S. Venture Partners,,2735 Sand Hill Road,Menlo Park,CA,94025,37.419632,-122.209057
+736,Udacity,www.udacity.com,2440 W El Camino Real,Mountain View,CA,94040,37.399322,-122.107764
+917,unitQ,unitq.com,300 S Ellsworth Ave,San Mateo,CA,94401,37.564618,-122.322962
+1170,Veev,www.veev.com,777 Bridgepointe Cir,San Mateo,CA,94404,37.562337,-122.285913
+747,Verkada,verkada.com,60 E 3rd Ave #300,San Mateo,CA,94401,37.563562,-122.324503
+754,Virtusa,virtusa.com,6627 Dumbarton Cir,Fremont,CA,94555,37.546319,-122.064388
+858,Visa,usa.visa.com,900 Metro Center Blvd,Foster City,CA,94404,37.559665,-122.275934
+757,VMWare,www.vmware.com,3401 Hillview Ave,Palo Alto,CA,94304,37.402086,-122.144617
+759,Volt Workforce Solutions,www.volt.com,2201 Walnut Ave #110,Fremont,CA,94538,37.555363,-121.975903
+765,Walmart Labs,www.walmartlabs.com,860 W California Ave,Sunnyvale,CA,94086,37.381451,-122.036953
+769,Wealthfront,wealthfront.com,900 Middlefield Rd,Redwood City,CA,94063,37.485152,-122.229612
+841,WellPay,www.wellpay.care,,San Mateo,CA,,37.562992,-122.325525
+774,WePay,go.wepay.com,350 Convention Way #200,Redwood City,CA,94063,37.493960,-122.227933
+979,WhatsApp,whatsapp.com,650 Castro St,Mountain View,CA,94041,37.387999,-122.082985
+1071,Wiser Solutions,wiser.com,1730 S El Camino Real #500,San Mateo,CA,94402,37.551741,-122.314051
+1089,Workato,www.workato.com,215 Castro St Suite 300,Mountain View,CA,94041,37.393498,-122.078907
+865,WorkBoard,workboard.com,487 Seaport Ct #100,Redwood City,CA,94063,37.503720,-122.212355
+980,Xilinx,xilinx.com,2050 Logic Dr,San Jose,CA,95124,37.252624,-121.933771
+790,Xoriant,xoriant.com,1248 Reamwood Ave,Sunnyvale,CA,94089,37.404943,-121.987639
+981,Yahoo,yahoo.com,701 1st Ave,Sunnyvale,CA,94089,37.417181,-122.025012
+796,Yodlee,yodlee.com,3600 Bridge Pkwy Suite 200,Redwood City,CA,94065,37.537298,-122.254532
+982,YouTube,youtube.com,901 Cherry Ave,San Bruno,CA,94066,37.628293,-122.426523
+1176,Yummly,www.yummly.com,3101 Park Blvd,Palo Alto,CA,94306,37.425248,-122.136504
+798,Zazzle,zazzle.com,1800 Seaport Blvd,Redwood City,CA,94063,37.510980,-122.201431
+807,Zicasso,zicasso.com,1580 W El Camino Real STE 14,Mountain View,CA,94040,37.390265,-122.092123
+842,Zipcar,zipcar.com,15 N Ellsworth Ave suite 100,San Mateo,CA,94401,37.567466,-122.325692
+983,Zscaler,zscaler.com,100 Rose Orchard Way,San Jose,CA,95134,37.415951,-121.947837
+811,Zume Pizza,zumepizza.com,250 Polaris Ave,Mountain View,CA,94043,37.399147,-122.084199
+813,Zuora,zuora.com,3050 S Delaware St #301,San Mateo,CA,94403,37.540405,-122.298993
